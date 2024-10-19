@@ -10,9 +10,8 @@
 - **Filtering**: Allows users to filter transactions to show only income, expenses, or all transactions.
 
 ## Screenshots
-![Budget Buddy Interface]![WhatsApp Image 2024-10-19 at 19 32 30_ea38d302](https://github.com/user-attachments/assets/992a3fef-c609-44d5-9697-b03acfb589f4)
-
-![Transaction History]![WhatsApp Image 2024-10-19 at 19 32 31_e43d95c2](https://github.com/user-attachments/assets/87fb2108-016a-4923-b5ad-f701adc20336)
+[WhatsApp Image 2024-10-19 at 19 32 30_ea38d302](https://github.com/user-attachments/assets/992a3fef-c609-44d5-9697-b03acfb589f4)
+[WhatsApp Image 2024-10-19 at 19 32 31_e43d95c2](https://github.com/user-attachments/assets/87fb2108-016a-4923-b5ad-f701adc20336)
 
 ## How It Works
 1. **View Balance**: The main screen displays the overall balance derived from income and expenses.
