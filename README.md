@@ -10,8 +10,9 @@
 - **Filtering**: Allows users to filter transactions to show only income, expenses, or all transactions.
 
 ## Screenshots
-[WhatsApp Image 2024-10-19 at 19 32 30_ea38d302](https://github.com/user-attachments/assets/992a3fef-c609-44d5-9697-b03acfb589f4)
-[WhatsApp Image 2024-10-19 at 19 32 31_e43d95c2](https://github.com/user-attachments/assets/87fb2108-016a-4923-b5ad-f701adc20336)
+![WhatsApp Image 2024-10-19 at 19 32 31_e43d95c2](https://github.com/user-attachments/assets/579c4ba1-d2ab-4a9e-a2ab-dff398a91e1b)
+![WhatsApp Image 2024-10-19 at 19 32 30_ea38d302](https://github.com/user-attachments/assets/9521e857-d3a3-40b6-a7d5-5a2f628000b9)
+
 
 ## How It Works
 1. **View Balance**: The main screen displays the overall balance derived from income and expenses.
